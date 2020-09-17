@@ -2,13 +2,11 @@
 Forkify has some pretty cool and different recipes, that look delicious! Aside from that, you can purchase the products that are included in the ingredients and also like and remember the recipes.
 
 **FEATURES**  
-- This application has three fields. First field is used to toggle between your expenses or income, second field is for the description of your expenses and the third field is for the amount your want to add for that. Along with that there is a button to add the expense/income.
-- Whatever expense/income you are adding will be shown in the 'Expense' or 'Income' section.
-- Buttons are available if you want to delete some particular data.
-- On top of the page you will find a section that will show your total budget for all the expenses/income along with the month that you are in.
-- Total Expenses and Income are also shown.
-- Percentage of total expenditure is also added which shows the the total amount spent of the total income for the ongoing month.
-- Fields focuse colors also change when we toggle between Income and Expense options.
+- You will be able to look for different delicious recipies from around the world.Just search for it in the search bar, for example "Pizza" and all the recipies related to pizza will appear on the left side of the screen. Just click on the one you are interested in.
+- After the recipe appear on the screen you will be able to add its ingredients to the shopping cart to buy them. You can also increase the quantity of the ingredients that you want to buy.
+- If you want to save the recipes that you like, you can just click on the like button and check them in future too.
+- Each page will display only 10 recipes out of all the recipes related to a particular search.
+- You get the option to increase the quantity of the ingredients according to your needs.
 
 
 **DOWNLOAD**  
@@ -20,6 +18,7 @@ If you want to download the code, hit the green button saying "Clone or download
 - JavaScript.  
 - Babel.  
 - Webpack.  
+- AJAX.  
 
 **CONTRIBUTING**  
 Pull requests are encouraged.
